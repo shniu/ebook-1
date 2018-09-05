@@ -74,3 +74,4 @@
 
 1. [Google编程风格指南](https://github.com/zh-google-styleguide/zh-google-styleguide)
 2. [Google style guide](http://code.google.com/p/google-styleguide/)
+3. [ebook-cpp](https://github.com/auspbro/ebook-cpp)
